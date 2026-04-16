@@ -1,4 +1,4 @@
-import React from 'react';
+
 import { CustomHeader } from './shared/components/CustomHeader';
 import { SearchBar } from './shared/components/SearchBar';
 import { PreviousSearches } from './gifs/PreviousSearches';
